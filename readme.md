@@ -74,7 +74,7 @@
 
 ## 🎬 看看它怎么工作
 
-<video src="./video.mp4" controls width="100%"></video>
+https://github.com/TieGuoD/SlideMind/raw/master/video.mp4
 
 ---
 
