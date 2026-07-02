@@ -16,6 +16,14 @@
 
 ---
 
+## 🎬 看看它怎么工作
+
+https://github.com/user-attachments/assets/07ba7339-0c1d-46e3-b03c-4d5ae4206e78
+
+
+
+---
+
 ## ✨ 它能做什么？
 
 ### 🔍 看不懂的地方，直接问
@@ -72,13 +80,7 @@
 
 ---
 
-## 🎬 看看它怎么工作
 
-https://github.com/user-attachments/assets/07ba7339-0c1d-46e3-b03c-4d5ae4206e78
-
-
-
----
 
 ## 📬 联系我们
 
