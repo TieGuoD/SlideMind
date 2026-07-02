@@ -74,7 +74,9 @@
 
 ## 🎬 看看它怎么工作
 
-https://github.com/TieGuoD/SlideMind/raw/master/video.mp4
+https://github.com/user-attachments/assets/07ba7339-0c1d-46e3-b03c-4d5ae4206e78
+
+
 
 ---
 
