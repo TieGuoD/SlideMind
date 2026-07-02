@@ -74,7 +74,7 @@
 
 ## 🎬 看看它怎么工作
 
-[功能演示视频](./video.mp4)
+<video src="./video.mp4" controls width="100%"></video>
 
 ---
 
